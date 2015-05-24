@@ -20,23 +20,23 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##Description of Variables
 
-a) Prefix t denotes time domain signals and prefix f denotes Fourier-transformed signals
-b) body linear acceleration and angular velocity were derived in time to obtain Jerk signals 
-   (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ).Also the magnitude of these three-dimensional signals were 
-   calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag). 
+a) Prefix t denotes time domain signals and prefix f denotes Fourier-transformed signals    
+b) body linear acceleration and angular velocity were derived in time to obtain Jerk signals     
+   (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ).Also the magnitude of these three-dimensional signals   
+   were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag).   
 
 
-   *subjectId: 1 to 30 identifies the people who took part in the study
-   *activity: the activity of the subject during the measurement
-   *tBodyAcc-mean-X
-   *tBodyAcc-mean-Y
-   *tBodyAcc-mean-Z
-   *tBodyAcc-std-X
-   *tBodyAcc-std-Y
-   *tBodyAcc-std-Z
-   *tGravityAcc-mean-X
-   *tGravityAcc-mean-Y
-   *tGravityAcc-mean-Z
+   *subjectId: 1 to 30 identifies the people who took part in the study  
+   *activity: the activity of the subject during the measurement  
+   *tBodyAcc-mean-X  
+   *tBodyAcc-mean-Y  
+   *tBodyAcc-mean-Z  
+   *tBodyAcc-std-X  
+   *tBodyAcc-std-Y  
+   *tBodyAcc-std-Z  
+   *tGravityAcc-mean-X  
+   *tGravityAcc-mean-Y  
+   *tGravityAcc-mean-Z  
    *tGravityAcc-std-X
    *tGravityAcc-std-Y
    *tGravityAcc-std-Z
